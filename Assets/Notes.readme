@@ -1,0 +1,4 @@
+The following are prefixes isolated with the static function Split() of the wsClient:
+
+MSG - denotes a chat message
+AUT - denotes an authentication message
