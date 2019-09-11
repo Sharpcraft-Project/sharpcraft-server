@@ -2,3 +2,5 @@ The following are prefixes isolated with the static function Split() of the wsCl
 
 MSG - denotes a chat message
 AUT - denotes an authentication message
+SGN - denotes a signature of a pre-sent random key
+LGN - denotes a login attempt consisting of a json player package
